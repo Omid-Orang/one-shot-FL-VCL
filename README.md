@@ -1,7 +1,5 @@
 ## One-Shot Federated Class-Incremental Learning via Variational Feature Transfer
 
-## Overview
-
 This repository presents a novel one-shot federated class-incremental learning framework for medical imaging using variational feature transfer.
 
 The proposed approach enables:
