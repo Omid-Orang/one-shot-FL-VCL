@@ -1,1 +1,1 @@
-# One-shot-VCL-FPFT-Medical-Imaging
+# One-shot VCL-FPFT Medical-Imaging
