@@ -1,4 +1,4 @@
-# One-Shot Federated Class-Incremental Learning via Variational Feature Transfer
+## One-Shot Federated Class-Incremental Learning via Variational Feature Transfer
 
 ## Overview
 
