@@ -1,6 +1,6 @@
 # VCL-FPFT: One-Shot Federated Class-Incremental Learning for Medical Imaging via Variational Feature Transfer
 
-> **IJCAI-ECAI 2026** — *One-Shot Federated Class-Incremental Learning for Medical Imaging via Variational Feature Transfer*
+> **IJCAI 2026** — *One-Shot Federated Class-Incremental Learning for Medical Imaging via Variational Feature Transfer*
 > Pedro H. Barros\*, Omid Orang\*, Giulia Zanon de Castro, Heitor S. Ramos, Frederico Gadelha Guimarães
 > Future Lab, Department of Computer Science — Federal University of Minas Gerais (UFMG)
 > \*Equal contribution
@@ -202,7 +202,7 @@ If you find this work useful, please cite:
 @inproceedings{barros2026vclFPFT,
   title     = {One-Shot Federated Class-Incremental Learning for Medical Imaging via Variational Feature Transfer},
   author    = {Barros, Pedro H. and Orang, Omid and de Castro, Giulia Zanon and Ramos, Heitor S. and Guimar{\~a}es, Frederico Gadelha},
-  booktitle = {Proceedings of the Thirty-Fifth International Joint Conference on Artificial Intelligence (IJCAI-ECAI)},
+  booktitle = {Proceedings of the Thirty-Fifth International Joint Conference on Artificial Intelligence (IJCAI)},
   year      = {2026}
 }
 ```
