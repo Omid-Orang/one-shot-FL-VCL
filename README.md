@@ -14,7 +14,7 @@
 Each client fits class-conditional variational Gaussian distributions over its local embeddings and transmits only the distribution parameters (mean µ, Cholesky factor L) to the server. The server aggregates these into a global mixture model, synthesizes features, and trains a classifier head — no raw data ever leaves the clients.
 
 <p align="center">
-  <img src="assets/framework.png" alt="VCL-FPFT Framework" width="85%"/>
+  <img src="figures/framework.png" alt="VCL-FPFT Framework" width="85%"/>
 </p>
 
 ### Key Properties
